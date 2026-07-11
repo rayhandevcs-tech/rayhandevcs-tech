@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Md. Rayhan 👋
 
-<!--
-**rayhandevcs-tech/rayhandevcs-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at AIUB
 
-Here are some ideas to get you started:
+💻 Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Aspiring Software Engineer
+
+---
+
+## Tech Stack
+
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Supabase
+- PostgreSQL
+
+---
+
+## Current Focus
+
+- Building scalable web applications
+- Problem Solving
+- Data Structures & Algorithms
+- Software Engineering
+
+---
+
+## Featured Projects
+
+### 🏠 Student Hostel System
+Hostel finding platform built with Next.js and Supabase.
+
+### 🎓 AIUB Faculty Review
+Faculty review and rating platform.
+
+### 💼 Gulshan Club Member Relationship Tree
+Member relationship management solution.
+
+---
+
+## Connect With Me
+
+- LinkedIn
+- Portfolio
+- Email
